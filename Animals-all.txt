@@ -6,10 +6,10 @@
 6. Cass_Jellyfish
 7. Shan_Crab
 8. Tony_Goldfish
-9. 
-10. 
-11. 
-12. 
+9. Tony_Snake
+10. Cass_Lizard
+11. Shan_TRex
+12. Maribelle_Crocodile 
 13. 
 14. 
 15. 
