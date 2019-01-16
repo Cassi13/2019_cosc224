@@ -10,11 +10,11 @@
 10. Cass_Lizard
 11. Shan_TRex
 12. Maribelle_Crocodile 
-13.Shan_Whale
-14.Cass_Elephant
-15.Tony_Bear
-16.Maribelle_Tiger
-17. 
-18. 
-19. 
-20. 
+13. Shan_Whale
+14. Cass_Elephant
+15. Tony_Bear
+16. Maribelle_Tiger
+17. Cass_Dragon
+18. Maribelle_Unicorn
+19. Shan_PlaytapusBear
+20. Tony_Phoenix
